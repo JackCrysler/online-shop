@@ -35,3 +35,7 @@ build之后可进行真机测试：
 ## Plugins Introduction
 
     j-toast（npm官网直接搜j-toast）：基于vue的信息提示插件，非常简单，具备核心功能，可在此基础之上进行扩展。
+
+    like:
+    
+    <img src="https://raw.githubusercontent.com/JackCrysler/online-shop/master/src/assets/img/demo.png">

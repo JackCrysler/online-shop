@@ -15,6 +15,11 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+    build之后可进行真机测试：
+        1. 需配置utils下的request.js的baseurl；
+        2. 启动server目录下的server.js，手机访问路径为wifi下的ip+端口号
+
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).

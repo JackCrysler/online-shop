@@ -2,6 +2,7 @@ import Vue from 'vue'
 import axios from 'axios'
 
 console.log(process.env.NODE_ENV)
+//192.168.191.1这个是电脑开启wifi的ip地址，用于真机测试，如果不做真机测试，直接换成localhost(127.0.0.1)即可
 //测试服务器
 const testUrl = 'http://192.168.191.1:3000'
 //线上服务器

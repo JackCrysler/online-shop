@@ -1,0 +1,15 @@
+#app{
+    height: 100%;
+}
+.flex-box{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    height: 0.9rem;
+    line-height: 0.9rem;
+    border-bottom: 1px solid #ccc; 
+}
+*{
+    box-sizing: border-box;
+}

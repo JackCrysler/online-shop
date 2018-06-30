@@ -31,3 +31,7 @@ build之后可进行真机测试：
 例如：
 
     通过ipconfig查看wifi下的ip为192.168.191.1，那么手机链接电脑wifi并访问192.168.191.1:3000即可。
+
+## Plugins Introduction
+
+    j-toast（npm官网直接搜j-toast）：基于vue的信息提示插件，非常简单，具备核心功能，可在此基础之上进行扩展。

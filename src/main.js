@@ -26,7 +26,7 @@ import Toast from '@/plugins/toast'
 //import Toast from 'j-toast'
 Vue.use(Toast,{
   name:'Toast',
-  timeout: 3000,
+  timeout: 30000,
   autoclose: false
 })
 

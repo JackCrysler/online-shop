@@ -20,14 +20,14 @@ npm run dev | npm start | cnpm start | yarn start
 # build for production with minification
 npm run build
 
-    build之后可进行真机测试：
-
-        1. 需配置utils下的request.js的baseurl
-
-        2. 通过node启动server目录下的server.js，手机访问路径为wifi下的电脑ip+端口号(3000)
-
-    例如：
-
-        通过ipconfig查看wifi下的ip为192.168.191.1，那么手机链接电脑wifi并访问192.168.191.1:3000即可。
-
 ```
+
+build之后可进行真机测试：
+
+    1. 需配置utils下的request.js的baseurl
+
+    2. 通过node启动server目录下的server.js，手机访问路径为wifi下的电脑ip+端口号(3000)
+
+例如：
+
+    通过ipconfig查看wifi下的ip为192.168.191.1，那么手机链接电脑wifi并访问192.168.191.1:3000即可。
